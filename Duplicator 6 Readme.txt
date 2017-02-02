@@ -13,6 +13,10 @@ If you are stock Duplicator 6 compile as is.  Use the Aduino Software IDE and ad
 
 Changes:
 
+Version 1.1.0-RC8 2-2-17 (bug fix) Version 4.1 
+- Reverted to previous manual bed leveling code to fix a bug that would cause the printer to hang when manual bed leveling (BC)
+
+
 Version 1.1.0-RC8 01-23-17 (Initial Release) Version 3
 - Added LED lighting setting to EEPROM.
 - Added LED dimming setting to the Control Menu.
