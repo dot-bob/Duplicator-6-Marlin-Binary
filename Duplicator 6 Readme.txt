@@ -13,6 +13,9 @@ If you are stock Duplicator 6 compile as is.  Use the Aduino Software IDE and ad
 
 Changes:
 
+Version 1.1.0-RC8 02-012-17 (bug fix) Version 4.4 (BC)
+- Enabled Filament Run-Out sensor.  Connect a NC switch between between pin 1 and pin 3 on J9 (ANALOG) connector on Wanhao main board.
+
 Version 1.1.0-RC8 02-05-17 (bug fix) Version 4.3 (BC)
 - Increased both THERMAL_PROTECTION_PERIOD and WATCH_TEMP_PERIOD to 90 seconds to prevent false Thermal Run-away errors (time may need     to be tweaked) from the hot-end
 
